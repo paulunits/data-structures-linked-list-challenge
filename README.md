@@ -1,3 +1,5 @@
+#Paul Haney
+
 # Linked Lists
 
 [Linked Lists](http://en.wikipedia.org/wiki/Linked_list) are one approach to producing a _dynamically_ sized collection of elements. Array Lists accomplish this as well, but they do it differently.
